@@ -7,6 +7,7 @@
 
 - [IBM](https://www.ibm.com)
 - [Microsoft](https://microsoft.com)
+- [North IT](https://www.northit.co.uk)
 - [Qovery](https://www.qovery.com/)
 - [Samsung SDS](https://www.samsungsds.com/)
 - [Softonic](https://hello.softonic.com/)
